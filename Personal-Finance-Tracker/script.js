@@ -122,4 +122,4 @@ function init() {
 init();
 form.addEventListener('submit', addNewTransaction);
 
-//* @mondalcodehub | NOV-2022 | *//
+//* @Team Debug Entity | 2023 | *//
